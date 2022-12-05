@@ -3,11 +3,16 @@
 - Notebook 6250.ipynb contains code for preprocessing data and also building CNN models with similarity score using custom softmax layer.
 
 ### Setup
+
+
+#### clone repo
+```properties
+git clone git@github.com:gomsieeeee/6250project.git
+```  
+
 #### Download data
 
-```properties
-sh download.sh -c
-```  
+
 
 #### Setup virtual enviornment
 
