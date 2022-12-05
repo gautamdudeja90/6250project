@@ -11,8 +11,9 @@ git clone git@github.com:gomsieeeee/6250project.git
 ```  
 
 #### Download data
-
-
+```properties
+sh download.sh -c
+```  
 
 #### Setup virtual enviornment
 
